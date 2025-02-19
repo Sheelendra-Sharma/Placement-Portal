@@ -8,7 +8,7 @@ const Hero = () => {
             <div>
                 <img src= {hero} height= "100px" width='100px'/>
             </div>
-        </div>
+        </div>sss
     </>
   )
 }
