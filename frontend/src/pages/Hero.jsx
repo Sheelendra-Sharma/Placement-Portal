@@ -6,17 +6,7 @@ import WhyChooseUs from "./WhyChooseUs";
 const Hero = () => {
   return (
     <>
-<<<<<<< HEAD
-        <div>
-            <div></div>
-            <div>
-                <img src= {hero} height= "100px" width='100px'/>
-            </div>
-        </div>sss
-    </>
-  )
-}
-=======
+
       {/* Hero Section with Background Image */}
       <div className="bg-[url('https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center w-full h-screen flex items-center justify-start px-8">
         <div className="w-2/3 md:w-1/2 p-8 text-black space-y-4 ml-10 z-10">
@@ -39,7 +29,6 @@ const Hero = () => {
           </div>
         </div>
       </div>
->>>>>>> 90c2b01f18b490573512fa30a30918af7a557dcf
 
       {/* Middle Section */}
       <div className="p-8 flex items-center justify-between gap-16 h-screen">
